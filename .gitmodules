@@ -33,8 +33,3 @@
 	url = https://github.com/rglab/mast
 	shallow = true
 	registered = true
-[submodule "pepStat"]
-	path = pepStat
-	url = https://github.com/rglab/pepstat
-	shallow = true
-	registered = true
