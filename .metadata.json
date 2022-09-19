@@ -10,5 +10,14 @@
   },
   {
     "package": "ggcyto"
+  },
+  {
+    "package": "ImmuneSpaceR"
+  },
+  {
+    "package": "MAST"
+  },
+  {
+    "package": "pepStat"
   }
 ]
