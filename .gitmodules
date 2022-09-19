@@ -23,8 +23,3 @@
 	url = https://github.com/rglab/ggcyto
 	shallow = true
 	registered = true
-[submodule "ImmuneSpaceR"]
-	path = ImmuneSpaceR
-	url = https://github.com/rglab/immunespacer
-	shallow = true
-	registered = true
