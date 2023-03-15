@@ -1,23 +1,23 @@
 [
   {
+    "package": "ImmuneSpaceR"
+  },
+  {
     "package": "COMPASS"
   },
   {
-    "package": "CytoML"
+    "package": "pepStat"
   },
   {
     "package": "flowStats"
   },
   {
-    "package": "ggcyto"
-  },
-  {
-    "package": "ImmuneSpaceR"
-  },
-  {
     "package": "MAST"
   },
   {
-    "package": "pepStat"
+    "package": "ggcyto"
+  },
+  {
+    "package": "CytoML"
   }
 ]
