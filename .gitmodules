@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "COMPASS"]
 	path = COMPASS
 	url = https://github.com/rglab/compass
-	shallow = true
-	registered = true
 [submodule "CytoML"]
 	path = CytoML
 	url = https://github.com/rglab/cytoml
-	shallow = true
-	registered = true
 [submodule "flowStats"]
 	path = flowStats
 	url = https://github.com/rglab/flowstats
-	shallow = true
-	registered = true
 [submodule "ggcyto"]
 	path = ggcyto
 	url = https://github.com/rglab/ggcyto
-	shallow = true
-	registered = true
 [submodule "ImmuneSpaceR"]
 	path = ImmuneSpaceR
 	url = https://github.com/rglab/immunespacer
-	shallow = true
-	registered = true
 [submodule "MAST"]
 	path = MAST
 	url = https://github.com/rglab/mast
-	shallow = true
-	registered = true
 [submodule "pepStat"]
 	path = pepStat
 	url = https://github.com/rglab/pepstat
-	shallow = true
-	registered = true
