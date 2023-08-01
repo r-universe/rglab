@@ -8,18 +8,18 @@
 [submodule "CytoML"]
 	path = CytoML
 	url = https://github.com/rglab/cytoml
-[submodule "flowStats"]
-	path = flowStats
-	url = https://github.com/rglab/flowstats
-[submodule "ggcyto"]
-	path = ggcyto
-	url = https://github.com/rglab/ggcyto
 [submodule "ImmuneSpaceR"]
 	path = ImmuneSpaceR
 	url = https://github.com/rglab/immunespacer
 [submodule "MAST"]
 	path = MAST
 	url = https://github.com/rglab/mast
+[submodule "flowStats"]
+	path = flowStats
+	url = https://github.com/rglab/flowstats
+[submodule "ggcyto"]
+	path = ggcyto
+	url = https://github.com/rglab/ggcyto
 [submodule "pepStat"]
 	path = pepStat
 	url = https://github.com/rglab/pepstat
